@@ -1,4 +1,8 @@
 ### Hi there 👋
+![yaleiyale's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaleiyale&show_icons=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaleiyale&layout=compact&exclude_repo=duang,yaleiyale.github.io,obsidian-jekyll-blog)  
+
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=yaleiyale)] -->
 
 <!--
 **yaleiyale/yaleiyale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
