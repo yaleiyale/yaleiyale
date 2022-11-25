@@ -1,10 +1,8 @@
 ### Hi there 👋
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{yaleiyale}/count.svg" alt="yaleiyale :: Visitor's Count" /></p>
-
-![yaleiyale's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaleiyale&show_icons=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yaleiyale&layout=compact&exclude_repo=duang,yaleiyale.github.io,obsidian-jekyll-blog)  
-
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=yaleiyale&show_icons=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaleiyale&layout=compact&exclude_repo=duang,yaleiyale.github.io,obsidian-jekyll-blog"/>
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=yaleiyale)] -->
 
 <!--
